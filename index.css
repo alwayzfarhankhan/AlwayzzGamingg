@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background: #000000;
+    text-align: center;
+    color: white;
+
+}
+
+.logo{
+    background-image: url(afk.png);
+    height: 105px;
+    width: 105px;
+    border-radius: 50%;
+    margin-left: 130px;
+}
+
+h1{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    font-size: larger;
+    color:purple;
+}
+
+
+
+.rainbow-text {
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
